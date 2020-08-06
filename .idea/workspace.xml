@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5dd7f140-63a8-4a0d-be5a-21107e67d8d6" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resultats_CodingDojo.ods" beforeDir="false" afterPath="$PROJECT_DIR$/Resultats_CodingDojo.ods" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/info/version.txt" beforeDir="false" afterPath="$PROJECT_DIR$/resources/info/version.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/rphstudio/codingdojo/students/Student1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/rphstudio/codingdojo/students/Student1.java" afterDir="false" />
-    </list>
+    <list default="true" id="5dd7f140-63a8-4a0d-be5a-21107e67d8d6" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,17 +19,20 @@
       <file leaf-file-name="Student1.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/fr/rphstudio/codingdojo/students/Student1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="103" column="23" selection-start-line="103" selection-start-column="23" selection-end-line="103" selection-end-column="23" />
+            <state relative-caret-position="87">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Student78.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../codingdojo/_tmp/students/Student78.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2079">
-              <caret line="108" selection-start-line="108" selection-end-line="108" />
+            <state relative-caret-position="162">
+              <caret line="13" column="4" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -72,9 +70,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="85" />
-    <option name="y" value="25" />
-    <option name="width" value="1750" />
+    <option name="x" value="27" />
+    <option name="width" value="1275" />
     <option name="height" value="970" />
   </component>
   <component name="ProjectId" id="1QLLxU96UdryiFYLE103d5EhkqH" />
@@ -84,68 +81,61 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Student1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="StudentPlugIn" type="462c0819:PsiDirectoryNode" />
+              <item name="codingdojo_studentplugin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Student1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="StudentPlugIn" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Student1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="StudentPlugIn" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="students" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Student1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="StudentPlugIn" type="462c0819:PsiDirectoryNode" />
+              <item name="codingdojo_studentplugin" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Student1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="StudentPlugIn" type="462c0819:PsiDirectoryNode" />
+              <item name="codingdojo_studentplugin" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Student1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="StudentPlugIn" type="462c0819:PsiDirectoryNode" />
+              <item name="codingdojo_studentplugin" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Student1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="StudentPlugIn" type="462c0819:PsiDirectoryNode" />
+              <item name="codingdojo_studentplugin" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="students" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Student1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2816092" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -177,8 +167,9 @@
     <configuration name="Compile Coding Dojo PlugIn WIN32" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="fr.rphstudio.codingdojo.launcher.MainLauncher" />
       <module name="Student1" />
-      <option name="VM_PARAMETERS" value="-Djava.library.path=lib -cp ./*;students/*" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/resources" />
+      <option name="VM_PARAMETERS" value="-Djava.library.path=&quot;lib&quot; -cp ./*;students/*" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$/resources" />
+      <shortenClasspath name="NONE" />
       <method>
         <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="clean install" />
       </method>
@@ -280,43 +271,43 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.49946696" weight="0.32897604" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.25865802" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.32897604" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.3452381" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.34422657" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28518122" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2771855" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.32900432" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32843137" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26632652" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32843137" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -340,14 +331,12 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../../codingdojo/_tmp/students/Student78.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2079">
-          <caret line="108" selection-start-line="108" selection-end-line="108" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/fr/rphstudio/codingdojo/students/Student1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4095">
@@ -355,13 +344,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../codingdojo/_tmp/students/Student78.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2268">
-          <caret line="108" selection-start-line="108" selection-end-line="108" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../_tmp/students/Student78.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/fr/rphstudio/codingdojo/students/Student1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3255">
@@ -369,13 +352,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../codingdojo/_tmp/students/Student78.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2079">
-          <caret line="108" selection-start-line="108" selection-end-line="108" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../_tmp/students/Student78.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/fr/rphstudio/codingdojo/students/Student1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3549">
@@ -383,13 +360,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../codingdojo/_tmp/students/Student78.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2268">
-          <caret line="108" selection-start-line="108" selection-end-line="108" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../_tmp/students/Student78.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/fr/rphstudio/codingdojo/students/Student1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2877">
@@ -397,13 +368,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../codingdojo/_tmp/students/Student78.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2268">
-          <caret line="108" selection-start-line="108" selection-end-line="108" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../_tmp/students/Student78.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/fr/rphstudio/codingdojo/students/Student1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1281">
@@ -411,13 +376,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../codingdojo/_tmp/students/Student78.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2079">
-          <caret line="108" selection-start-line="108" selection-end-line="108" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../_tmp/students/Student78.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/fr/rphstudio/codingdojo/students/Student1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2415">
@@ -425,13 +384,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../codingdojo/_tmp/students/Student78.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2268">
-          <caret line="108" lean-forward="true" selection-start-line="108" selection-end-line="108" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../_tmp/students/Student78.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/fr/rphstudio/codingdojo/students/Student1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2856">
@@ -541,27 +494,8 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/fr/rphstudio/codingdojo/students/Student78.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/resources/codingdojo-1.11.110.jar!/fr/rphstudio/ecs/component/physic/Physic2D.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="177" column="17" selection-start-line="177" selection-start-column="17" selection-end-line="177" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/resources/codingdojo-1.11.110.jar!/fr/rphstudio/codingdojo/game/Pod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="275" column="29" selection-start-line="275" selection-start-column="29" selection-end-line="275" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$PROJECT_DIR$/resources/codingdojo-1.11.110.jar!/fr/rphstudio/ecs/component/physic/Physic2D.class" />
+    <entry file="jar://$PROJECT_DIR$/resources/codingdojo-1.11.110.jar!/fr/rphstudio/codingdojo/game/Pod.class" />
     <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/lang/Math.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1159">
@@ -569,24 +503,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/resources/codingdojo-1.11.110.jar!/fr/rphstudio/codingdojo/game/PodPlugIn.class">
+    <entry file="jar://$PROJECT_DIR$/resources/codingdojo-1.11.110.jar!/fr/rphstudio/codingdojo/game/PodPlugIn.class" />
+    <entry file="file://$PROJECT_DIR$/../_tmp/students/Student78.java" />
+    <entry file="jar://$PROJECT_DIR$/resources/codingdojo-2.0.1.jar!/fr/rphstudio/codingdojo/game/Pod.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="309" column="29" selection-start-line="309" selection-start-column="29" selection-end-line="309" selection-end-column="29" />
+        <state relative-caret-position="162">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../codingdojo/_tmp/students/Student78.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2079">
-          <caret line="108" selection-start-line="108" selection-end-line="108" />
+        <state relative-caret-position="162">
+          <caret line="13" column="4" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/fr/rphstudio/codingdojo/students/Student1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="103" column="23" selection-start-line="103" selection-start-column="23" selection-end-line="103" selection-end-column="23" />
+        <state relative-caret-position="87">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -594,5 +533,81 @@
   <component name="hg4idea.settings">
     <option name="CHECK_INCOMING_OUTGOING" value="true" />
     <option name="RECENT_HG_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2816092" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2816092" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2816092" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>14</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2816092" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Student1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2816092" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>codingdojo-2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2816092" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

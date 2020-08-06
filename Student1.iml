@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
-  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_X">
     <output url="file://$MODULE_DIR$/target/classes" />
     <output-test url="file://$MODULE_DIR$/target/test-classes" />
     <content url="file://$MODULE_DIR$">
@@ -35,9 +35,9 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
-      <library name="Maven: fr.rphstudio:codingdojo:1.11.112">
+      <library name="Maven: fr.rphstudio:codingdojo:2.0.2">
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/resources/codingdojo-1.11.112.jar!/" />
+          <root url="jar://$MODULE_DIR$/resources/codingdojo-2.0.2.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />

@@ -3,13 +3,13 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>fr.rphstudio</groupId>
     <artifactId>Student1</artifactId>
-    <version>2.0</version>
+    <version>2.1</version>
     <packaging>jar</packaging>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>14</maven.compiler.source>
         <maven.compiler.target>14</maven.compiler.target>
-        <codingdojo.version>2.0.2</codingdojo.version>
+        <codingdojo.version>2.1</codingdojo.version>
     </properties>
     
     <dependencies>
@@ -18,7 +18,7 @@
             <artifactId>codingdojo</artifactId>
             <version>${codingdojo.version}</version>
             <scope>system</scope>
-            <systemPath>${project.basedir}/resources/codingdojo-${codingdojo.version}.jar</systemPath>
+            <systemPath>${project.basedir}/resources/codingdojo.jar</systemPath>
         </dependency>    
     </dependencies>
     

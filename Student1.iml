@@ -35,9 +35,9 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
-      <library name="Maven: fr.rphstudio:codingdojo:2.0.2">
+      <library name="Maven: fr.rphstudio:codingdojo:2.1">
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/resources/codingdojo-2.0.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/resources/codingdojo.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />

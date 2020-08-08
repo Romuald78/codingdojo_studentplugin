@@ -107,6 +107,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
@@ -147,6 +158,10 @@
       <workItem from="1596735452186" duration="255000" />
       <workItem from="1596735744524" duration="137000" />
       <workItem from="1596737768732" duration="1232000" />
+      <workItem from="1596813725428" duration="65000" />
+      <workItem from="1596813818292" duration="378000" />
+      <workItem from="1596814221031" duration="551000" />
+      <workItem from="1596900703936" duration="620000" />
     </task>
     <servers />
   </component>
@@ -159,30 +174,38 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
+    <state x="440" y="94" key="#Project_Structure" timestamp="1596900784444">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1596900784444" />
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596735620055">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596735620055" />
-    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1596739527821">
+    <state x="811" y="301" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1596900773306">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596739527821" />
-    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1596739527821">
+    <state x="811" y="301" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596900773306" />
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1596901043459">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596739527821" />
-    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1596739527821">
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596901043459" />
+    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1596901043459">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596739527821" />
-    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1596739527821">
+    <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596901043459" />
+    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1596901043459">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596739527821" />
-    <state x="461" y="165" key="SettingsEditor" timestamp="1596735874895">
+    <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596901043459" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1596901043459">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1596735874895" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596901043459" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1596900833235">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1596900833235" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1596735499416">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

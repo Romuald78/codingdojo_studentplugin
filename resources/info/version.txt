@@ -1,4 +1,4 @@
-Coding DOJO
+Piscine 2020
 v2.1.4
 CodingFactory by ITESCIA
 [CODE/GFX] - Romuald Grignon

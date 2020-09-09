@@ -1,6 +1,6 @@
 #!/bin/bash
 
-FTP_SERVER='ftp://dojouser:codingDoj0@51.91.98.27/spaceships/'
+FTP_SERVER='ftp://dojouser:codingDoj0@gryt.tech/spaceships/'
 BASE=$(dirname $0)
 DOWNLOAD_DIR=$BASE/students
 
